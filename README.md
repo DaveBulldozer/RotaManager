@@ -50,4 +50,4 @@ Davies Mudavanhu
 ## Acknowledgments
 - Google Apps Script documentation
 - Stack Overflow
-- And any other contributor or site that helped your project!
+- Reddit
